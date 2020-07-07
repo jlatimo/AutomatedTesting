@@ -1,4 +1,4 @@
-# AutomatedTesting
+# Automated Testing
 Selenium-Mocha JavaScript automated testing
 
 
